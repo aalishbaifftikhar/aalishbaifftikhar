@@ -2,6 +2,8 @@
 
 **Full Stack Developer | PHP & MySQL Specialist**
 
+---
+
 ### 👨‍💻 About Me
 
 I am a focused **Full Stack Web Developer** dedicated to building clean, functional, and efficient web applications. I specialize in bridging the gap between structured database management (MySQL) and responsive, user-friendly frontends.
@@ -26,21 +28,18 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 
 ### 📈 GitHub Status
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alishbaifftikhar&show_icons=true&theme=radical&count_private=true" alt="Alishba's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbaifftikhar&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishbaifftikhar&theme=radical" alt="GitHub Streak" />
-</div>
+![Alishba`s Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aalishbaifftikhar&theme=dracula)
+
 
 ---
 
 ### 🤝 Let's Connect
 
-<p align="left">
-<a href="https://github.com/alishbaifftikhar" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="[YOUR_LINKEDIN_URL]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](YOUR_GITHUB_URL)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alishbaiftikhar547@gmail.com)
+
+
+
 
 "Building modular solutions for a complex world."
