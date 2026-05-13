@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I am a focused **Full Stack Web Developer** dedicated to building clean, functional, and efficient web applications. I specialize in bridging the gap between structured database management (MySQL) and responsive, user-friendly frontends.
+I am a focused ** Web Developer** dedicated to building clean, functional, and efficient web applications. I specialize in bridging the gap between structured database management (MySQL) and responsive, user-friendly frontends.
 
 * 🔭 **I’m currently focusing on:** Developing modular PHP applications.
 * 🌱 **I’m currently learning:** Advanced System Design and Cloud Hosting.
@@ -20,7 +20,7 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | PHP, JavaScript (ES6+), HTML5, CSS3 |
-| **Frameworks** | Bootstrap |
+| **Frameworks** | Bootstrap ,Laravel , Tailwindcss|
 | **Database** | MySQL |
 | **Tools & Version Control** | Git, GitHub, MS Office |
 
