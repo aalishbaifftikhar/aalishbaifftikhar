@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Alishba Iftikhar
 
-**Full Stack Developer | PHP & MySQL Specialist**
+**Junior Web Developer | Laravel, PHP, MySQL Specialist**
 
 ---
 
