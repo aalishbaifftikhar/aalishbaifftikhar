@@ -5,20 +5,25 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: aalishbaifftikhar
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake Animation
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy Snake
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          branch: output
+          folder: dist
