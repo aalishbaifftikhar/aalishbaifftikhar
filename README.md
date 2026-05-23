@@ -33,46 +33,46 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
-
 ### 🚀 Projects
 
-<!-- Replace these with your actual projects. Even small ones. -->
+| Project | Description | Stack | Live / Preview | Repository |
+|---|---|---|---|---|
+| **Frontend Project** | Responsive frontend website with modern UI and clean design | HTML, CSS, JavaScript | [Live Demo ↗](https://aalishbaifftikhar.github.io/frontend-project/) | [GitHub Repo ↗](https://github.com/aalishbaifftikhar/frontend-project) |
+| **Laravel Backend Project** | Backend management system with authentication and database features | Laravel, PHP, MySQL | [Project Video ↗](https://drive.google.com/file/d/1ZK6EXV6CuEnNhQWvKzz2Jlo8ySU3eI5S/view?usp=drive_link) | [GitHub Repo ↗](https://github.com/aalishbaifftikhar/Laravelproject) |
 
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **Project Name** | One sentence describing what it does and who it helps | Laravel, MySQL | [Live ↗](https://yourlink.com) |
-| **Project Name** | One sentence describing what it does and who it helps | PHP, JS | [Repo ↗](https://github.com/aalishbaifftikhar/repo) |
-
-> 💡 If you have no deployed projects yet: push your best practice/learning project and describe what you were trying to solve. That still counts.
+---
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aalishbaifftikhar&theme=github_dark" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aalishbaifftikhar&theme=github_dark" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aalishbaifftikhar&theme=github-dark-blue&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aalishbaifftikhar&theme=github_dark" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aalishbaifftikhar&theme=darkhub&no-frame=true&column=6)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aalishbaifftikhar&theme=darkhub&no-frame=true&column=6" />
+</p>
 
 ---
 
 ### 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aalishbaifftikhar&theme=github-compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aalishbaifftikhar&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 
