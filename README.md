@@ -50,10 +50,9 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 ### 📊 GitHub Stats
 
 <div align="center">
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aalishbaifftikhar&theme=github-dark-blue&hide_border=true)
 
