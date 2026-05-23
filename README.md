@@ -75,6 +75,13 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 </p>
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aalishbaifftikhar/aalishbaifftikhar/output/github-contribution-grid-snake.svg" />
+</p>
+---
+
 
 ### 🤝 Let's Work Together
 
