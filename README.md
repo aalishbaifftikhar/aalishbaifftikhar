@@ -1,10 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Alishba+%F0%9F%91%8B;Full-Stack+Developer+%7C+Learning+in+Public;Laravel+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+JavaScript;Open+to+Remote+%26+Freelance+Work)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alishba+%F0%9F%91%8B;Full-Stack+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+JavaScript;Frontend+%26+Backend+Developer;Open+to+Remote+%26+Freelance+Work" />
 
 </div>
-
 ---
 
 ### 👩‍💻 About Me
