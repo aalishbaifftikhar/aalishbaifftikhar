@@ -41,8 +41,6 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
