@@ -61,13 +61,6 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 
 
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aalishbaifftikhar&theme=github-compact&hide_border=true" />
-</p>
-
----
 ### 🐍 Contribution Snake
 
 <p align="center">
