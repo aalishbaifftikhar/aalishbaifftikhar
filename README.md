@@ -45,15 +45,15 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aalishbaifftikhar&theme=github_dark" />
+  <img src="https://github-readme-stats-psi-two-40.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aalishbaifftikhar&theme=github_dark" />
+  <img src="https://github-readme-stats-psi-two-40.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aalishbaifftikhar&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com/?user=aalishbaifftikhar&theme=github-dark&hide_border=true" />
 </p>
 
 ---
