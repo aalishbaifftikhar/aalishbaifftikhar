@@ -3,6 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alishba+%F0%9F%91%8B;Full-Stack+Developer;Laravel+%7C+PHP+%7C+MySQL+%7C+JavaScript;Frontend+%26+Backend+Developer;Open+to+Remote+%26+Freelance+Work" />
 
+
 </div>
 
 ---
@@ -43,17 +44,13 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-psi-two-40.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-psi-two-40.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats-psi-two-40.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-two-40.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aalishbaifftikhar&theme=github-dark&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=aalishbaifftikhar&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -67,6 +64,8 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
   <img src="https://raw.githubusercontent.com/aalishbaifftikhar/aalishbaifftikhar/output/github-contribution-grid-snake.svg" />
 </p>
 ---
+
+[![Alishba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aalishbaifftikhar&theme=github-dark)](...)
 
 
 ### 🤝 Let's Work Together
