@@ -45,8 +45,8 @@ I'm a full-stack developer based in Pakistan, building real projects while I lea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-psi-two-40.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=aalishbaifftikhar&theme=github-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-psi-two-40.vercel.app/api?username=aalishbaifftikhar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats-psi-two-40.vercel.app/api/top-langs/?username=aalishbaifftikhar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
